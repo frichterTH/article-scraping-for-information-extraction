@@ -1,6 +1,6 @@
-# article-scraping-for-information-extraction
+# Development of a framework for automatic extraction of information on bacteria from dynamic journal web pages.
 
-This repository contains all Jupyther Notebook, python-scripts and output files, which were created while writing the bachelor thesis.
+Diese repository beinhaltet den kompletten Pythoncode   und alle output dateien, die beim schreiben der bachelorabreit entstanden sind
 
 Bachelor thesis topic:
 
